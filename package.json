@@ -7,7 +7,7 @@
     "doc": "doc"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "git add . && git commit -m 'hurry-message' && git push origin main"
   },
   "repository": {
     "type": "git",
